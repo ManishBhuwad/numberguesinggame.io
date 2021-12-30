@@ -1,6 +1,6 @@
 import tkinter as tk
 import random
- 
+#tyyyyy 
 # Create a new window
 window = tk.Tk()
  
